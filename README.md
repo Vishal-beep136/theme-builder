@@ -1,4 +1,4 @@
-# Theming System
+# Theming System Using React
 
 [![License - MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
 
